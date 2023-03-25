@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">News App</string>
+    <string name="lorem" translatable="false">Privacy under threat: Why we should all worry about the growing spyware trade Privacy under threat: Why we should all worry about the growing spyware trade</string>
+    <string name="date" translatable="false">Date:-</string>
+    <string name="open" translatable="false">open</string>
+    <string name="close" translatable="false">close</string>
+    <string name="My_Account" translatable="false">My Account</string>
+    <string name="please_login_to_continue" translatable="false">Please Login to continue</string>
+    <string name="textQuotes" translatable="false">Be Update with current National and Internation news.\n News is a vital force that shapes our lives, our communities and our world.</string>
+    <string name="dark_theme">dark theme</string>
+</resources>
